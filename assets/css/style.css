@@ -98,7 +98,7 @@ p {
     max-width: 150px;
 }
 
-article section{
+.content section{
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -107,11 +107,11 @@ article section{
     color: #ffffff;
 }
 
-article section img{
+.content section img{
     max-height: 200px;
 }
 
-article section h2 {
+.content section h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
